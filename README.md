@@ -28,6 +28,9 @@
 <br />
 <br />
 
+[![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=bala-ceg)](https://github.com/bala-ceg/github-readme-stats)
+
+
 ---
 
 

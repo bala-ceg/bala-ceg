@@ -30,7 +30,7 @@
 
 
 [![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bala-ceg&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/bala-ceg/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermakhushboo&layout=compact&theme=calm)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bala-ceg&layout=compact&theme=calm)]
 (https://github.com/bala-ceg/github-readme-stats)
 
 ---

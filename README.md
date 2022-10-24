@@ -24,6 +24,6 @@
 [ibm]: https://www.ibm.com/quantum-computing/developers
 [qiskit]: https://qiskit.org/
 [instagram]: https://www.instagram.com/techwithbala/
-[linkedin]: https://www.linkedin.com/in/balaji-seetharaman-%F0%9F%8E%93-a90961100/
-[medium]: https://bala-ceg.medium.com/
+[linkedin]: https://www.linkedin.com/in/techwithbala/
+[medium]: https://techwithbala.medium.com/
 [facebook]: https://www.facebook.com/selva.balaji.102/

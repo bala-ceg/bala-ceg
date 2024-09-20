@@ -1,7 +1,7 @@
 ### Hello there, I am Bala 👋
 
-## I'm Network Engineer, Qiskit Advocate and Passionate Teacher!
-- 📐 Network Engineer at Extreme Networks
+##  Engineer, Qiskit Advocate and Passionate Teacher!
+- 📐 Senior Software Engineer at Extreme Networks
 - ➡️ Volunteer Teacher at Evidhyaloka, NGO that focuses on imparting education to students of Rural government schools in India 
 - 📈 Cloud, Data science and ML
 - ⚛️ Quantum computing
